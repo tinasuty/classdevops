@@ -18,7 +18,7 @@
 
   <modules>
     <module>server</module>
-    <module>webapp</module>
+    <module>classapp</module>
   </modules>
 
   <distributionManagement>
@@ -214,6 +214,7 @@
   </scm>
 
   <prerequisites>
+
     <maven>3.0.3</maven>
   </prerequisites>
 
